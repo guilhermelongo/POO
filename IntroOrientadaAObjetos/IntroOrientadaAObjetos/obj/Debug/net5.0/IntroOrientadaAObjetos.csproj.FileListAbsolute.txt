@@ -1,0 +1,16 @@
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.exe
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.deps.json
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.runtimeconfig.json
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.runtimeconfig.dev.json
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.dll
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\ref\IntroOrientadaAObjetos.dll
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\bin\Debug\net5.0\IntroOrientadaAObjetos.pdb
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.csproj.AssemblyReference.cache
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.AssemblyInfoInputs.cache
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.AssemblyInfo.cs
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.dll
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\ref\IntroOrientadaAObjetos.dll
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.pdb
+C:\Users\longo\source\repos\IntroOrientadaAObjetos\IntroOrientadaAObjetos\obj\Debug\net5.0\IntroOrientadaAObjetos.genruntimeconfig.cache

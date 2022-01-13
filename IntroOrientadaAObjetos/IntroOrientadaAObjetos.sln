@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroOrientadaAObjetos", "IntroOrientadaAObjetos\IntroOrientadaAObjetos.csproj", "{60B94ADE-2BA8-46E8-9BC2-404253DAAC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B94ADE-2BA8-46E8-9BC2-404253DAAC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B94ADE-2BA8-46E8-9BC2-404253DAAC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B94ADE-2BA8-46E8-9BC2-404253DAAC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B94ADE-2BA8-46E8-9BC2-404253DAAC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92328B95-4017-406A-9207-A009727A0272}
+	EndGlobalSection
+EndGlobal
