@@ -9,25 +9,20 @@ namespace IntroOrientadaAObjetos
             Pessoa a, b;
 
            a = new Pessoa();
-            b= new Pessoa();
-
-            Console.WriteLine("Digite idade e o nome:");
-            a.idade = int.Parse(Console.ReadLine());
-            a.nome = Console.ReadLine();
-
-            Console.WriteLine("Digite idade e o nome:");
-            b.idade = int.Parse(Console.ReadLine());
-            b.nome = Console.ReadLine();
-
-            if (a.idade < b.idade)
-            {
-                Console.WriteLine("Pessoa mais velha: " + b.nome);
-            }
-            else
-            {
-                Console.WriteLine("Pessoa mais velha: " + a.nome);
             
-            }
+
+            Console.WriteLine("Digite idade:");
+            a.idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o nome:");
+            a.nome = Console.ReadLine();
+            Console.WriteLine("Digite o ano atual:");
+            a.atual = int.Parse(Console.ReadLine());
+
+            
+
+            double calculando = a.Calc();
+            Console.WriteLine(calculando);
+
         }
     }
 }

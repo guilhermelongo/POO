@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\longo\\POO\\IntroOrientadaAObjetos\\IntroOrientadaAObjetos\\IntroOrientadaAObjetos.csproj",
-      "projectName": "IntroOrientadaAObjetos",
-      "projectPath": "C:\\Users\\longo\\POO\\IntroOrientadaAObjetos\\IntroOrientadaAObjetos\\IntroOrientadaAObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\longo\\source\\repos\\EXPOO1\\EXPOO1\\EXPOO1.csproj",
+      "projectName": "EXPOO1",
+      "projectPath": "C:\\Users\\longo\\source\\repos\\EXPOO1\\EXPOO1\\EXPOO1.csproj",
       "packagesPath": "C:\\Users\\longo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\longo\\POO\\IntroOrientadaAObjetos\\IntroOrientadaAObjetos\\obj\\",
+      "outputPath": "C:\\Users\\longo\\source\\repos\\EXPOO1\\EXPOO1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

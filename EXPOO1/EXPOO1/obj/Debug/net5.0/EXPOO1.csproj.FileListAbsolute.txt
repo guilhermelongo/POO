@@ -1,0 +1,16 @@
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.exe
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.deps.json
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.runtimeconfig.json
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.runtimeconfig.dev.json
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.dll
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\ref\EXPOO1.dll
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\bin\Debug\net5.0\EXPOO1.pdb
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.csproj.AssemblyReference.cache
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.AssemblyInfoInputs.cache
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.AssemblyInfo.cs
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.csproj.CoreCompileInputs.cache
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.dll
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\ref\EXPOO1.dll
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.pdb
+C:\Users\longo\source\repos\EXPOO1\EXPOO1\obj\Debug\net5.0\EXPOO1.genruntimeconfig.cache
